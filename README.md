@@ -6,7 +6,7 @@
 
 🔒 Auditing and securing decentralized applications (dApps) across EVM-based chains.
 
-🔍 Identifying and exploiting vulnerabilities in smart contracts to enhance their security.
+🔍 In freetime builds those python scripts your friend told you about in msf 
 
 💡 Proficient in: Solidity, JavaScript, Python
 
