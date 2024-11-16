@@ -13,6 +13,6 @@ For private audits, reach out:
 
 | Contest Name | Platform | Category | Ranking | Findings |
 |--------------|----------|----------|---------|----------|
-| [Woofi Swap](https://audits.sherlock.xyz/dashboard/85617a9a7bf6d34c43b0be845160efa2/fix_review_hashes) | Sherlock | Swapping | #6 | [1 M](https://github.com/sherlock-audit/2024-08-woofi-solana-deployment-judging/issues/57) |
-| [Axion](https://audits.sherlock.xyz/dashboard/85617a9a7bf6d34c43b0be845160efa2/fix_review_hashes) | Sherlock | Stablecoin, Swapping | #10 | [1 M](https://github.com/sherlock-audit/2024-10-axion-judging/issues/122) |
 | Chakra | Code4rena | Cross-chain | #26 | 1 M, 1H, 3L |
+| [Axion](https://audits.sherlock.xyz/dashboard/85617a9a7bf6d34c43b0be845160efa2/fix_review_hashes) | Sherlock | Stablecoin, Swapping | #10 | [1 M](https://github.com/sherlock-audit/2024-10-axion-judging/issues/122) |
+| [Woofi Swap](https://audits.sherlock.xyz/dashboard/85617a9a7bf6d34c43b0be845160efa2/fix_review_hashes) | Sherlock | Swapping | #6 | [1 M](https://github.com/sherlock-audit/2024-08-woofi-solana-deployment-judging/issues/57) |
