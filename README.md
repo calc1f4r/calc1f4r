@@ -1,4 +1,4 @@
-# Yash Srivastava (Calc1f4r)
+# (Calc1f4r)
 
 ## Professional Summary
 
