@@ -15,8 +15,11 @@
   * **#9 for Nudge.xyz (Code4rena)**.
   * **#5 for Crestal Network (Sherlock)**.
   * **#26 for Chakra (Code4rena)**.
+  * **#6 wOOFI SWAP(SHERLOCK)**
 
-
+Profiles : 
+- https://sherlock.xyz/watson/calc1f4r
+- https://cantina.xyz/u/calc1f4r
 
 ### Languages
 * Rust, Solidity, TypeScript, JavaScript, Python, C++ , Cairo , Move
