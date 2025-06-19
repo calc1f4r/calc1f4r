@@ -12,8 +12,7 @@
   * **#2 out of 248** in *inclusive monorepo competition* (17 critical vulns).
   * **#5 out of 240** in *reserve-index-dtfs-solana competition*.
   * **#10 out of 450** in *Soon competition*.
-  * **#9 for Nudge.xyz (Code4rena)**.
-  * **#5 for Crestal Network (Sherlock)**.
+  * **#9 for crestal Network (Sherlock)**
   * **#26 for Chakra (Code4rena)**.
   * **#6 wOOFI SWAP(SHERLOCK)**
 
