@@ -3,7 +3,6 @@
 ## Professional Summary
 
 - Blockchain Smart contract dev with a focus on smart contract security.
-- Dropped out early to figure what i need to do in life, and now I am here.
 - Loves to solve problems covering system design and architecture, with a strong emphasis on security and performance be it on-chain or off-chain.
 - Loves to figure things around distrbuted systems, and how they work under the hood.
 
